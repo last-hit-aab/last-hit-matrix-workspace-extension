@@ -1,0 +1,25 @@
+{
+	"name": "last-hit-matrix-workspace-extension",
+	"version": "0.0.1-dev.1",
+	"description": "workspace extension for last-hit-matrix",
+	"main": "dist/index.js",
+	"repository": "https://github.com/last-hit-aab/last-hit-matrix-workspace-extension.git",
+	"author": "last-hit-team",
+	"license": "MIT",
+	"scripts": {
+		"compile": "gulp",
+		"update:dev": "yarn add last-hit-workspace-extension@dev",
+		"deploy": "npm run compile && npm publish --access public",
+		"deploy:dev": "npm run compile && npm publish --tag dev"
+	},
+	"dependencies": {
+		"@types/node": "^13.5.3",
+		"last-hit-workspace-extension": "^0.9.9-dev.1",
+		"typescript": "^3.7.5"
+	},
+	"devDependencies": {
+		"gulp": "^4.0.2",
+		"gulp-sourcemaps": "^2.6.5",
+		"gulp-typescript": "^6.0.0-alpha.1"
+	}
+}
