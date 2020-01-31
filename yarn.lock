@@ -1250,10 +1250,10 @@ last-hit-types@^0.9.7:
   resolved "https://registry.npmjs.org/last-hit-types/-/last-hit-types-0.9.7.tgz#daa7d191e4c86d3e397fc3f3854b009ffd04b4de"
   integrity sha512-x2do+JbODD9bojyXWgZT4d8k9MRXeZb2hI8u0gfKwFn+MhPcnllsmAOIapmBVcT8mDzwPi3qMpxmoaLrIAY3LA==
 
-last-hit-workspace-extension@^0.9.9-dev.1:
-  version "0.9.9-dev.1"
-  resolved "https://registry.npmjs.org/last-hit-workspace-extension/-/last-hit-workspace-extension-0.9.9-dev.1.tgz#ac910a3205630b5464d026246d5f12a308cfacbf"
-  integrity sha512-JlsqyVKr0Cu8X7qpefa0t0mWuYMt6n0sg3QUChUC06AMVtdjtxolh3ctgT0fSh2NahL0tTjwD1552OG0mlxbyg==
+last-hit-workspace-extension@^0.9.9:
+  version "0.9.9"
+  resolved "https://registry.npmjs.org/last-hit-workspace-extension/-/last-hit-workspace-extension-0.9.9.tgz#8a24c9f26de5cd621cc00cb39a8a2a736bf9efc4"
+  integrity sha512-veOjU53HJBmpakbLDiYljGiOhbqzEOqnwL+RMdUO7Ckahi23vPnafOD83hEf7ow3RU1r5AFU+j9cEeuU/sKd7g==
   dependencies:
     "@types/node" "^13.5.3"
     decache "^4.5.1"

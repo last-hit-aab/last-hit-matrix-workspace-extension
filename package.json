@@ -1,6 +1,6 @@
 {
 	"name": "last-hit-matrix-workspace-extension",
-	"version": "0.0.1-dev.1",
+	"version": "0.0.1",
 	"description": "workspace extension for last-hit-matrix",
 	"main": "dist/index.js",
 	"repository": "https://github.com/last-hit-aab/last-hit-matrix-workspace-extension.git",
@@ -14,7 +14,7 @@
 	},
 	"dependencies": {
 		"@types/node": "^13.5.3",
-		"last-hit-workspace-extension": "^0.9.9-dev.1",
+		"last-hit-workspace-extension": "^0.9.9",
 		"typescript": "^3.7.5"
 	},
 	"devDependencies": {
