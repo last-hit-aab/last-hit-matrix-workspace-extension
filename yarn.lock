@@ -1245,19 +1245,19 @@ kind-of@^6.0.0, kind-of@^6.0.2:
   resolved "https://registry.npmjs.org/kind-of/-/kind-of-6.0.3.tgz#07c05034a6c349fa06e24fa35aa76db4580ce4dd"
   integrity sha512-dcS1ul+9tmeD95T+x28/ehLgd9mENa3LsvDTtzm3vyBEO7RPptvAD+t44WVXaUjTBRcrpFeFlC8WCruUR456hw==
 
-last-hit-types@^0.9.8:
-  version "0.9.8"
-  resolved "https://registry.npmjs.org/last-hit-types/-/last-hit-types-0.9.8.tgz#1ee0858b145ec331a1b2889442409d9d570644d1"
-  integrity sha512-TC9kejUJbNpJMleZsdCC2g55iQmMXOSk2t+KKDsn4AGiPEka+rihFyIFTemyyAGBUrffIKyCKih1nzrjLz9Iqg==
+last-hit-types@^0.9.9:
+  version "0.9.9"
+  resolved "https://registry.npmjs.org/last-hit-types/-/last-hit-types-0.9.9.tgz#2a0c464c2a689d202f32d5bd22431ecab4767724"
+  integrity sha512-C4Qmgk/akjXFYipykNfsAQGc/9K2zORQdjEFTF/3DwqWPYmRyexxuD05hruAy+fAal4uP7MjbvxznQEs7tAXPg==
 
-last-hit-workspace-extension@^0.9.10:
-  version "0.9.10"
-  resolved "https://registry.npmjs.org/last-hit-workspace-extension/-/last-hit-workspace-extension-0.9.10.tgz#5bf6699df129c7406e5abaccd4b12783d5291064"
-  integrity sha512-M4S751Gmaya/5kY6cdgY7mRKPNDzkaYzvos2mffo8AU9U/fv5OS5DQkXNwxvDnWTLSNzA9rKCqDSNGpgC7mDqg==
+last-hit-workspace-extension@^0.9.11:
+  version "0.9.11"
+  resolved "https://registry.npmjs.org/last-hit-workspace-extension/-/last-hit-workspace-extension-0.9.11.tgz#dd1a0ce1da5a090a239d2b1feca4ac982695d3cb"
+  integrity sha512-F16XZpWw2Yglbkcx3JXRkIQtDE77eJOOyfsmEN80OOtt+UBJ3iCzfYrzzDDfBe6s8C88K13cduNlXdz4vjZGNQ==
   dependencies:
     "@types/node" "^13.5.3"
     decache "^4.5.1"
-    last-hit-types "^0.9.8"
+    last-hit-types "^0.9.9"
     typescript "^3.7.3"
 
 last-run@^1.1.0:
